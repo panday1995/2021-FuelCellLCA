@@ -1,6 +1,6 @@
 # 2021-FuelCellLCA
 
-The file contains codes for 'Transition to fuel cells will substantially mitigate environmental impacts of power production in China'
+The file contains codes for 'Greenhouse gas and air pollutant mitigation potentials of transitioning from coal power to fuel cells in China'
 
 Jupyter notebook is used to open, edit, and run the codes.
 
