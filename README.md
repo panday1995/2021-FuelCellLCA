@@ -29,4 +29,5 @@ System Type: 64 bit
 If you have any questions, please contact:
 
 Fan Yang
-yangf1995@gmail.com
+Email: yangf1995@gmail.com
+Wechat: q584223772
