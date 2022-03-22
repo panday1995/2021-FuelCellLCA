@@ -1,0 +1,8 @@
+Description,Dry removal [%],
+electrostatic precipitator,"	92.31	","Cai W, Wang C, Jin Z, Chen J (2013). Quantifying Baseline Emission Factors of Air Pollutants in China? Regional Power Grids. Env Sci Techn 47(8):3590?597."
+Baghouse (fabric filter) ,"	99.30	",
+"	Hybrid particulate filters (combination electrostatic precipitator (ESP) and baghouse (fabric filter))	","	99.30	",
+Wet electrostatic precipitator (elektrofilter),"	92.31	",
+"	Electrostatic precipitator/baghouse","	99.30	","	Assumed to be the better of the two processes	"
+"	Electrostatic precipitator/Hybrid particulate filters (combination electrostatic precipitator (ESP) and baghouse (fabric filter))	","	99.30	","	Assumed to be the better of the two processes	"
+"	Water-film venturi particulate scrubber	","	98.50	",
