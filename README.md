@@ -1,6 +1,7 @@
 # 2021-FuelCellLCA
 
-The file contains codes for 'Greenhouse gas and air pollutant mitigation potentials of transitioning from coal power to fuel cells in China'
+The file contains codes for 
+Yang, et al. Life cycle assessment shows that retrofitting coal-fired power plants with fuel cells will substantially reduce greenhouse gas emissions. One Earth, 5 (4), 392-402
 
 Jupyter notebook is used to open, edit, and run the codes.
 
